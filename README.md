@@ -11,4 +11,4 @@ Os ini dibuat dengan mengikuti arahan dari OsDev [https://wiki.osdev.org/Bare_Bo
 
 # Build
 Jalankan perintah **make** di terminal untuk mencompile kernel & jalankan perintah **make run** untuk menjalankannya dengan qemu
-  > Note : compiler perlu menggunakan gcc untuk arsitektur i686-elf [https://wiki.osdev.org/GCC_Cross-Compiler]
+  > Note : compiler perlu menggunakan cross compiler untuk i686-elf [https://wiki.osdev.org/GCC_Cross-Compiler]
